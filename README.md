@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aassumpta38
 - 👀 I’m interested in learning anything
-- 🌱 I’m currently learning Java, C++, etc
+- 🌱 I’m currently learning Java, C++, python, Javascript etc
 - 💞️ I’m looking to collaborate on anything for now
 - 📫 How to reach me ...
 
